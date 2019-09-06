@@ -1,0 +1,181 @@
+xp for levelsm
+1	400
+2	900
+3	1,400 
+4	2,100 
+5	2,800 
+6	3,600 
+7	4,500
+8	5,400 
+9	6,500 
+10	7,600 
+11	8,700 
+12	9,800 
+13	11,000
+14	12,300
+15	13,600
+16	15,000
+17	16,400
+18	17,800
+19	19,300
+20	20,800
+21	22,400
+22	24,000
+23	25,500
+24	27,200
+25	28,900
+26	30,500
+27	32,200
+28	33,900
+29	36,300
+30	38,800
+31	41,600
+32	44,600 
+33	48,000 
+34	51,400 
+35	55,000 
+36	58,700 
+37	62,400 
+38	66,200 
+39	70,200 
+40	74,300 
+41	78,500 
+42	82,800 
+43	87,100 
+44	91,600 
+45	96,300 
+46	101,000
+47	105,800
+48	110,700
+49	115,700
+50	120,900
+51	126,100
+52	131,500
+53	137,000
+54	142,500
+55	148,200
+56	154,000
+57	159,900
+58	165,800
+59	172,000
+60	290,000 
+61	317,000 
+62	349,000 
+63	386,000 
+64	428,000 
+65	475,000 
+66	527,000 
+67	585,000 
+68	648,000 
+69	717,000 
+70	1,523,800
+71	1,539,600
+72	1,555,700
+73	1,571,800
+74	1,587,900
+75	1,604,200
+76	1,620,700
+77	1,637,400
+78	1,653,900
+79	1,670,800
+
+--=============================================================
+Levels and their areas
+1-10 Azuremyst Isle				ally
+1-10 Dun Morogh					ally
+1-10 Elwynn Forest				ally
+1-10 Teldrassil					ally
+1-10 Durotar					horde
+1-10 Tirisfal Glades			horde
+1-10 Eversong Woods				horde
+1-10 Mulgore					horde
+
+10-20 Bloodmyst Isle			ally
+10-20 Darkshore					ally
+10-20 Westfall					ally
+10-20 Loch Modan				ally
+10-20 Ghostlands				horde
+10-20 Silverpine Forest			horde
+
+10-25 Barrens					horde
+
+15-25 Redridge Mountains		ally
+
+15-27 Stonetalon Mountains		contested
+
+18-30 Ashenvale					contested
+18-30 Duskwood					ally
+
+20-30 Hillsbrad Foothills		contested
+20-30 Wetlands					ally
+
+25-35 Thousand Needles			horde
+
+30-40 Alterac Mountains			contested
+30-40 Arathi Highlands			contested
+30-40 Desolace					contested
+
+30-45 Stranglethorn Vale		contested
+
+35-45 Dustwallow Marsh			contested
+35-45 Badlands					horde
+35-45 Swamp of Sorrows			horde
+
+40-50 Feralas					contested
+40-50 Hinterlands				contested
+40-50 Tanaris					contested
+
+45-50 Searing Gorge				contested
+
+45-55 Azshara					contested
+45-55 Blasted Lands				contested
+
+48-55 Un'goro Crater			contested
+48-55 Felwood					contested
+
+50-58 Burning Steppes			contested
+
+51-58 Western Plaguelands		contested
+
+53-60 Eastern Plaguelands		contested
+53-60 Winterspring				contested
+
+55-58 Scarlet Enclave			contested
+
+55-60 Deadwind Pass				contested
+55-60 Moonglade					contested
+55-60 Silithus					contested
+
+58-63 Hellfire Peninsula		contested
+
+60-64 Zangarmarsh				contested
+
+62-65 Terokkar Forest			contested
+
+64-67 Nagrand					contested
+
+65-68 Blade's Edge Mountains	contested
+
+67-70 Netherstorm				contested
+67-70 Shadowmoon Valley			contested
+
+68-70 Deadwind Pass				contested
+
+68-72 Howling Fjord				contested
+68-72 Borean Tundra				contested
+
+70-73 Isle of Quel'Danas		contested
+
+71-75 Dragonblight				contested
+
+73-75 Grizzly Hills				contested
+
+74-76 Zul'Drak					contested
+
+76-78 Sholazar Basin			contested
+
+77-80 Crystalsong Forest		contested
+77-80 Hrothgar's Landing		contested
+77-80 Icecrown					contested
+77-80 Storm Peaks				contested
+77-80 Wintergrasp				combat zone

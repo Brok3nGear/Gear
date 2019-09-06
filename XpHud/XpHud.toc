@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: XpHud
+## Author: Brok3nGear
+## Notes: Simple experience hud
+## Version: 1.0
+
+XpHud.lua
