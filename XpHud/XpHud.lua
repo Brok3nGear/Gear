@@ -1,8 +1,10 @@
 --[==[
 Author: Brok3nGear
 Name: XpHud
-Date last modified: Oct 22/2016
-Description: This addon allows you to track serveral xp variables. Drag the window with the right click. Left click displays quest location your character should be in.
+Date last modified: Sept 9/2019
+Description: This addon allows you to track serveral xp variables. Drag the
+window with the right click. Left click displays quest location your character
+should be in.
 
 coded by use of:
 http://wowprogramming.com/
@@ -37,12 +39,9 @@ COMMANDS TO IMPLEMENT
 local unitXp 					= UnitXP("player")-- Returns the number of experience points the specified unit has in their current level. (only works on your player)
 local maxXp 					= UnitXPMax("player")-- Returns the number of experience points the specified unit needs to reach their next level. (only works on your player)
 local restState 				= GetRestState()-- Returns information about a player's rest state (saved up experience bonus)
-local xpDisabled 				= IsXPUserDisabled()-- Returns 1 if the character has disabled experience gain.
 local xpExhaustion 				= GetXPExhaustion()-- Returns your character's current rested XP, nil if character is not rested.
 local state, name, multiplier	= GetRestState()
-local run 						= true
 local debugtrue 				= false
-local avgItemLevel
 local oldxp 					= 0
 local oldrestxp					= 0
 local pass1						= true
@@ -74,7 +73,6 @@ local function eventHandler(self, event, ...)
 	unitXp 			= UnitXP("player")
 	maxXp 			= UnitXPMax("player")
 	restState 		= GetRestState()
-	xpDisabled 		= IsXPUserDisabled()
 	petXp		 	= GetPetExperience()
 	xpExhaustion 	= GetXPExhaustion()
 	print("|cffff1111XpHud Loaded: /xphud help|r")
@@ -564,7 +562,6 @@ local function updateVariables(x)
 		unitXp			= UnitXP("player")
 		maxXp			= UnitXPMax("player")
 		restState		= GetRestState()
-		xpDisabled		= IsXPUserDisabled()
 		petXp			= GetPetExperience()
 		xpExhaustion	= GetXPExhaustion()
 		draw(x)
